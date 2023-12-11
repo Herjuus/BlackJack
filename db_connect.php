@@ -1,6 +1,6 @@
 <?php
 
-$server = "localhost";
+$server = "localhost:3306";
 $user = "root";
 $pw = "root";
 $db = "blackjack";
